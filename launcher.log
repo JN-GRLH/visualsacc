@@ -1,0 +1,91 @@
+2026-11-12 18:58:31 pywebview nicht verfügbar:
+Traceback (most recent call last):
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\app\launcher.pyw", line 89, in eigenes_fenster
+    from webview.platforms import winforms
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\platforms\winforms.py", line 141, in <module>
+    from . import edgechromium as Chromium
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\platforms\edgechromium.py", line 51, in <module>
+    os.environ['Path'] += ';' + interop_dll_path(platform)
+                                ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\util.py", line 517, in interop_dll_path
+    raise FileNotFoundError(f'Cannot find {dll_name}')
+FileNotFoundError: Cannot find win-arm64
+
+2026-11-12 18:58:42 pywebview nicht verfügbar:
+Traceback (most recent call last):
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\app\launcher.pyw", line 89, in eigenes_fenster
+    from webview.platforms import winforms
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\platforms\winforms.py", line 141, in <module>
+    from . import edgechromium as Chromium
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\platforms\edgechromium.py", line 51, in <module>
+    os.environ['Path'] += ';' + interop_dll_path(platform)
+                                ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\util.py", line 517, in interop_dll_path
+    raise FileNotFoundError(f'Cannot find {dll_name}')
+FileNotFoundError: Cannot find win-arm64
+
+2026-11-12 18:58:51 pywebview nicht verfügbar:
+Traceback (most recent call last):
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\app\launcher.pyw", line 89, in eigenes_fenster
+    from webview.platforms import winforms
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\platforms\winforms.py", line 141, in <module>
+    from . import edgechromium as Chromium
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\platforms\edgechromium.py", line 51, in <module>
+    os.environ['Path'] += ';' + interop_dll_path(platform)
+                                ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\util.py", line 517, in interop_dll_path
+    raise FileNotFoundError(f'Cannot find {dll_name}')
+FileNotFoundError: Cannot find win-arm64
+
+2026-11-12 18:59:02 pywebview nicht verfügbar:
+Traceback (most recent call last):
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\app\launcher.pyw", line 89, in eigenes_fenster
+    from webview.platforms import winforms
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\platforms\winforms.py", line 141, in <module>
+    from . import edgechromium as Chromium
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\platforms\edgechromium.py", line 51, in <module>
+    os.environ['Path'] += ';' + interop_dll_path(platform)
+                                ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\util.py", line 517, in interop_dll_path
+    raise FileNotFoundError(f'Cannot find {dll_name}')
+FileNotFoundError: Cannot find win-arm64
+
+2026-11-12 18:59:10 pywebview nicht verfügbar:
+Traceback (most recent call last):
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\app\launcher.pyw", line 89, in eigenes_fenster
+    from webview.platforms import winforms
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\platforms\winforms.py", line 141, in <module>
+    from . import edgechromium as Chromium
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\platforms\edgechromium.py", line 51, in <module>
+    os.environ['Path'] += ';' + interop_dll_path(platform)
+                                ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\util.py", line 517, in interop_dll_path
+    raise FileNotFoundError(f'Cannot find {dll_name}')
+FileNotFoundError: Cannot find win-arm64
+
+2026-11-12 18:59:57 pywebview nicht verfügbar:
+Traceback (most recent call last):
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\app\launcher.pyw", line 89, in eigenes_fenster
+    from webview.platforms import winforms
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\platforms\winforms.py", line 141, in <module>
+    from . import edgechromium as Chromium
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\platforms\edgechromium.py", line 51, in <module>
+    os.environ['Path'] += ';' + interop_dll_path(platform)
+                                ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\util.py", line 517, in interop_dll_path
+    raise FileNotFoundError(f'Cannot find {dll_name}')
+FileNotFoundError: Cannot find win-arm64
+
+2026-11-12 19:01:44 pywebview nicht verfügbar:
+Traceback (most recent call last):
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\app\launcher.pyw", line 89, in eigenes_fenster
+    from webview.platforms import winforms
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\platforms\winforms.py", line 141, in <module>
+    from . import edgechromium as Chromium
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\platforms\edgechromium.py", line 51, in <module>
+    os.environ['Path'] += ';' + interop_dll_path(platform)
+                                ~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\rgerl\AppData\Local\Programs\VisualsACC\python\Lib\site-packages\webview\util.py", line 517, in interop_dll_path
+    raise FileNotFoundError(f'Cannot find {dll_name}')
+FileNotFoundError: Cannot find win-arm64
+
